@@ -1,0 +1,8 @@
+# Medium brightness profile
+# Applied on top of the chosen style. List only the values that differ from it.
+# Emergency lights halfway between Low and High as the eye sees it.
+
+car.defaultlight.day.emissive.on	310.0
+car.defaultlight.night.emissive.on	175.0
+car.sirenlight.day.emissive.on		310.0
+car.sirenlight.night.emissive.on	175.0

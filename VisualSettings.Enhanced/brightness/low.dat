@@ -1,0 +1,8 @@
+# Low brightness profile
+# Applied on top of the chosen style. List only the values that differ from it.
+# Emergency lights slightly brighter than base GTA (base GTA: day 15, night 6).
+
+car.defaultlight.day.emissive.on	60.0
+car.defaultlight.night.emissive.on	25.0
+car.sirenlight.day.emissive.on		60.0
+car.sirenlight.night.emissive.on	25.0

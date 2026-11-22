@@ -1,0 +1,56 @@
+# VisualV style
+# Applied on top of the player's own VisualV visualsettings.dat (VisualV must be installed).
+#
+# Feel free to edit and redistribute this file as long as the following comment is kept
+# Edited by Cj24 (accuratestudio.com)
+# More information: https://www.modding-forum.com/downloads/file/120-improved-emergency-lights/
+# Improved Emergency Lights 1.4 - VisualV settings
+
+# emissive bits
+car.headlight.day.emissive.on	20.00
+car.headlight.night.emissive.on	20.00
+car.headlight.day.emissive.off	0.001
+car.headlight.night.emissive.off	0.001
+car.taillight.day.emissive.on	30.0
+car.taillight.night.emissive.on	30.0
+car.taillight.day.emissive.off	0.001
+car.taillight.night.emissive.off	0.001
+car.indicator.day.emissive.on	500.00
+car.indicator.night.emissive.on	400.00
+car.indicator.day.emissive.off	0.001
+car.indicator.night.emissive.off	0.001
+car.reversinglight.day.emissive.on	20.00
+car.reversinglight.night.emissive.on	20.00
+car.reversinglight.day.emissive.off	0.001
+car.reversinglight.night.emissive.off	0.001
+car.defaultlight.day.emissive.on	1400.00
+car.defaultlight.night.emissive.on	700.00
+car.defaultlight.day.emissive.off	0.001
+car.defaultlight.night.emissive.off	0.001
+car.brakelight.day.emissive.on	100.00
+car.brakelight.night.emissive.on	100.00
+car.brakelight.day.emissive.off	0.001
+car.brakelight.night.emissive.off	0.001
+car.middlebrakelight.day.emissive.on	50.00
+car.middlebrakelight.night.emissive.on	50.00
+car.middlebrakelight.day.emissive.off	0.001
+car.middlebrakelight.night.emissive.off	0.001
+car.extralight.day.emissive.on	9.00
+car.extralight.night.emissive.on	9.00
+car.extralight.day.emissive.off	0.001
+car.extralight.night.emissive.off	0.001
+car.sirenlight.day.emissive.on	1400.00
+car.sirenlight.night.emissive.on	700.00
+car.sirenlight.day.emissive.off	0.001
+car.sirenlight.night.emissive.off	0.001
+car.emissiveMultiplier	2.00
+
+# Bloom
+bloom.threshold.min	0.4
+bloom.threshold.expsoure.diff.min	0.0
+bloom.threshold.expsoure.diff.max	0.0
+bloom.threshold.power	1.0
+
+bloom.blurblendmult.large	1.0
+bloom.blurblendmult.med	1.5
+bloom.blurblendmult.small	0.8
